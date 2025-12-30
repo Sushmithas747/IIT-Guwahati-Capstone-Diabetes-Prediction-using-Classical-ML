@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sushmithas747/IIT-Guwahati-Capstone-Diabetes-Prediction-using-Classical-ML/blob/main/Diabetes_Prediction_Classical_ML.ipynb)
 
 
 # IIT-Guwahati-Capstone-Diabetes-Prediction-using-Classical-ML
