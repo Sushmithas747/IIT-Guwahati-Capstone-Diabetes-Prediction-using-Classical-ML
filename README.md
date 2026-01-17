@@ -5,6 +5,7 @@
 IIT Guwahati–associated academic project focused on diabetes prediction using classical machine learning techniques.
 ## Diabetes Prediction using Classical Machine Learning
 
+
 IIT Guwahati–associated academic project focused on predicting diabetes using classical machine learning techniques.
 
 ### Highlights
